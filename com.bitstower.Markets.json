@@ -1,7 +1,7 @@
 {
     "app-id" : "com.bitstower.Markets",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "3.36",
+    "runtime-version" : "3.38",
     "sdk" : "org.gnome.Sdk",
     "command" : "markets",
     "finish-args" : [
@@ -50,7 +50,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/bitstower/markets.git",
-                    "tag" : "0.3.0"
+                    "tag" : "0.4.0"
                 }
             ]
         }
