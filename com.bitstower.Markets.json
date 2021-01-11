@@ -50,7 +50,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/bitstower/markets.git",
-                    "tag" : "0.5.0"
+                    "branch" : "release-0.5.1"
                 }
             ]
         }
